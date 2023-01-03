@@ -1,0 +1,10 @@
+<svg width="10" height="9" viewBox="0 0 10 9" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <filter id="govjrvlrya">
+            <feColorMatrix in="SourceGraphic" values="0 0 0 0 1.000000 0 0 0 0 1.000000 0 0 0 0 1.000000 0 0 0 1.000000 0"/>
+        </filter>
+    </defs>
+    <g transform="translate(-6 -6)" filter="url(#govjrvlrya)" fill="none" fill-rule="evenodd">
+        <path d="M15.1 9.642H9.07l2.28-2.177a.832.832 0 0 0 0-1.214.93.93 0 0 0-1.272 0L6.263 9.893A.84.84 0 0 0 6 10.5a.84.84 0 0 0 .263.607l3.815 3.642a.918.918 0 0 0 .636.251c.23 0 .46-.083.636-.251a.832.832 0 0 0 0-1.214l-2.28-2.177h6.03c.498 0 .9-.384.9-.858 0-.475-.402-.858-.9-.858z" fill="#000" fill-rule="nonzero"/>
+    </g>
+</svg>

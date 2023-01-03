@@ -1,0 +1,10 @@
+<svg width="9" height="10" viewBox="0 0 9 10" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <filter id="djnbrifela">
+            <feColorMatrix in="SourceGraphic" values="0 0 0 0 1.000000 0 0 0 0 1.000000 0 0 0 0 1.000000 0 0 0 1.000000 0"/>
+        </filter>
+    </defs>
+    <g transform="translate(0 -2)" filter="url(#djnbrifela)" fill="none" fill-rule="evenodd">
+        <path d="M4.865 10.858H7.93a.376.376 0 0 0 0-.753H4.865a1.319 1.319 0 0 0-2.526 0H.403a.376.376 0 1 0 0 .753H2.34a1.319 1.319 0 0 0 2.525 0zm2.822-3.576h.243a.376.376 0 1 0 0-.752h-.243a1.319 1.319 0 0 0-2.525 0H.403a.376.376 0 1 0 0 .752h4.76a1.319 1.319 0 0 0 2.524 0zM3.171 3.707H7.93a.376.376 0 1 0 0-.753H3.17a1.319 1.319 0 0 0-2.524 0H.403a.376.376 0 0 0 0 .753h.243a1.319 1.319 0 0 0 2.525 0z" fill="#000" fill-rule="nonzero"/>
+    </g>
+</svg>
